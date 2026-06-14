@@ -1,0 +1,344 @@
+movieNo,MovieName,HeroName,HeroineName,DirectorName,ProducerName,ReleaseDate,Language,Genre,DurationMinutes,Budget(Cr),Collection(Cr),Rating,OTTPlatform,FranchiseName,PanIndiaMovie,MusicDirector,ProductionHouse,IsHit
+1,Eeswar,Prabhas,Sridevi Vijaykumar,Jayanth C. Paranjee,K. Ashok Kumar,2002-11-11,Telugu,Action,150,5,7,5.4,Aha,NULL,0,R. P. Patnaik,Sri Lakshmi Venkateswara Art Creations,0
+2,Raghavendra,Prabhas,Anshu,Suresh Krishna,Srinivasa Raju,2003-03-28,Telugu,Action,152,6,8,4.8,Aha,NULL,0,Mani Sharma,Sri Srinivasa Cinema,0
+3,Varsham,Prabhas,Trisha,Sobhan,M. S. Raju,2004-01-14,Telugu,Romance Action,159,8,22,7.8,Sun NXT,NULL,0,Devi Sri Prasad,Sumanth Art Productions,1
+4,Adavi Ramudu,Prabhas,Aarthi Agarwal,B. Gopal,Chanti Addala,2004-05-21,Telugu,Action,160,10,18,4.2,Sun NXT,NULL,0,Mani Sharma,Sri Venkateswara Cine Chitra,1
+5,Chakram,Prabhas,Asin,Krishna Vamsi,K. S. Rama Rao,2005-03-25,Telugu,Drama,155,9,7,6.2,Aha,NULL,0,Chakri,Creative Commercials,0
+6,Chatrapathi,Prabhas,Shriya Saran,S. S. Rajamouli,B. V. S. N. Prasad,2005-09-30,Telugu,Action Drama,158,12,30,8.2,Netflix,NULL,0,M. M. Keeravani,Sri Venkateswara Cine Chitra,1
+7,Pournami,Prabhas,Trisha,Prabhu Deva,M. S. Raju,2006-04-21,Telugu,Drama,167,14,12,7,Aha,NULL,0,Devi Sri Prasad,Sumanth Art Productions,0
+8,Yogi,Prabhas,Nayanthara,V. V. Vinayak,P. Ravindranath Reddy,2007-01-14,Telugu,Action,155,16,14,6,Aha,NULL,0,Ramana Gogula,Eswari Films,0
+9,Munna,Prabhas,Ileana D'Cruz,Vamsi Paidipally,Dil Raju,2007-05-02,Telugu,Action,167,18,16,5.6,Amazon Prime Video,NULL,0,Harris Jayaraj,Sri Venkateswara Creations,0
+10,Bujjigadu,Prabhas,Trisha,Puri Jagannadh,K. S. Rama Rao,2008-05-22,Telugu,Action Comedy,146,18,25,6.3,Amazon Prime Video,NULL,0,Sandeep Chowta,Creative Commercials,1
+11,Billa,Prabhas,Anushka Shetty,Meher Ramesh,Gopikrishna Movies,2009-04-03,Telugu,Action Thriller,149,25,40,6.6,Netflix,NULL,0,Mani Sharma,Gopikrishna Movies,1
+12,Ek Niranjan,Prabhas,Kangana Ranaut,Puri Jagannadh,Aditya Ram,2009-10-29,Telugu,Action,170,28,30,5.4,Amazon Prime Video,NULL,0,Mani Sharma,Adityaram Movies,0
+13,Darling,Prabhas,Kajal Aggarwal,A. Karunakaran,B. V. S. N. Prasad,2010-04-23,Telugu,Romance,152,20,45,7.3,Netflix,NULL,0,G. V. Prakash Kumar,Sri Venkateswara Cine Chitra,1
+14,Mr. Perfect,Prabhas,Kajal Aggarwal,Dasaradh,Dil Raju,2011-04-22,Telugu,Romance Drama,145,25,50,7.1,Amazon Prime Video,NULL,0,Devi Sri Prasad,Sri Venkateswara Creations,1
+15,Rebel,Prabhas,Tamannaah Bhatia,Raghava Lawrence,J. Bhagavan,2012-09-28,Telugu,Action,168,40,43,4.9,Aha,NULL,0,Raghava Lawrence,Balaji Cine Media,0
+16,Mirchi,Prabhas,Anushka Shetty,Koratala Siva,V. Vamsi Krishna Reddy,2013-02-08,Telugu,Action Drama,160,35,80,7.8,Netflix,NULL,0,Devi Sri Prasad,UV Creations,1
+17,Baahubali: The Beginning,Prabhas,Tamannaah Bhatia,S. S. Rajamouli,Shobu Yarlagadda,2015-07-10,Telugu,Epic Action,159,180,650,8,Netflix,Baahubali,1,M. M. Keeravani,Arka Media Works,1
+18,Baahubali 2: The Conclusion,Prabhas,Anushka Shetty,S. S. Rajamouli,Shobu Yarlagadda,2017-04-28,Telugu,Epic Action,171,250,1800,8.2,Netflix,Baahubali,1,M. M. Keeravani,Arka Media Works,1
+19,Saaho,Prabhas,Shraddha Kapoor,Sujeeth,Vamsi Krishna Reddy,2019-08-30,Telugu,Action Thriller,170,350,450,5.8,Netflix,Saaho,1,Ghibran,UV Creations,1
+20,Radhe Shyam,Prabhas,Pooja Hegde,Radha Krishna Kumar,Vamsi Krishna Reddy,2022-03-11,Telugu,Romance Drama,138,300,214,5.3,Amazon Prime Video,NULL,1,Justin Prabhakaran,UV Creations,0
+21,Adipurush,Prabhas,Kriti Sanon,Om Raut,Bhushan Kumar,2023-06-16,Telugu,Mythological,179,500,390,4.5,Netflix,NULL,1,Ajay-Atul,T-Series,0
+22,Salaar: Part 1 - Ceasefire,Prabhas,Shruti Haasan,Prashanth Neel,Vijay Kiragandur,2023-12-22,Telugu,Action,175,270,700,7.1,Netflix,Salaar,1,Ravi Basrur,Hombale Films,1
+23,Kalki 2898 AD,Prabhas,Deepika Padukone,Nag Ashwin,C. Aswani Dutt,2024-06-27,Telugu,Science Fiction,181,600,1200,8.3,Amazon Prime Video,Kalki,1,Santhosh Narayanan,Vyjayanthi Movies,1
+24,Kannappa,Prabhas,Preity Mukhundhan,Mukesh Kumar Singh,Mohan Babu,2025-06-27,Telugu,Mythological,180,150,250,7,Amazon Prime Video,Kannappa,1,Stephen Devassy,24 Frames Factory,1
+25,Gangotri,Allu Arjun,Aditi Agarwal,K. Raghavendra Rao,Allu Aravind,2003-03-28,Telugu,Romance Drama,158,8,15,6.1,Sun NXT,NULL,0,M. M. Keeravani,Geetha Arts,1
+26,Arya,Allu Arjun,Anuradha Mehta,Sukumar,Dil Raju,2004-05-07,Telugu,Romance Action,151,4,30,7.8,Sun NXT,Arya,0,Devi Sri Prasad,Sri Venkateswara Creations,1
+27,Bunny,Allu Arjun,Gowri Munjal,V. V. Vinayak,Mallidi Satyanarayana Reddy,2005-04-06,Telugu,Action Romance,155,8,25,7,Aha,NULL,0,Devi Sri Prasad,Sri Satya Sai Arts,1
+28,Happy,Allu Arjun,Genelia D'Souza,A. Karunakaran,Allu Aravind,2006-01-27,Telugu,Romance Comedy,160,10,22,7.1,Aha,NULL,0,Yuvan Shankar Raja,Geetha Arts,1
+29,Desamuduru,Allu Arjun,Hansika Motwani,Puri Jagannadh,D. V. V. Danayya,2007-01-12,Telugu,Action Romance,158,12,30,6.8,Amazon Prime Video,NULL,0,Chakri,Universal Media,1
+30,Parugu,Allu Arjun,Sheela Kaur,Bhaskar,Dil Raju,2008-05-01,Telugu,Family Drama,170,15,35,7.4,Sun NXT,NULL,0,Mani Sharma,Sri Venkateswara Creations,1
+31,Arya 2,Allu Arjun,Kajal Aggarwal,Sukumar,Aditya Babu,2009-11-27,Telugu,Romance Drama,165,18,40,7.5,Sun NXT,Arya,0,Devi Sri Prasad,Aditya Arts,1
+32,Varudu,Allu Arjun,Bhanushree Mehra,Gunasekhar,D. V. V. Danayya,2010-03-31,Telugu,Action Drama,148,25,20,3.7,Aha,NULL,0,Mani Sharma,Universal Media,0
+33,Vedam,Allu Arjun,Deeksha Seth,Krish Jagarlamudi,Shobu Yarlagadda,2010-06-04,Telugu,Drama,141,15,30,8.1,Sun NXT,NULL,0,M. M. Keeravani,Arka Media Works,1
+34,Badrinath,Allu Arjun,Tamannaah Bhatia,V. V. Vinayak,Allu Aravind,2011-06-10,Telugu,Action Fantasy,140,40,48,4.4,Aha,NULL,0,M. M. Keeravani,Geetha Arts,1
+35,Julayi,Allu Arjun,Ileana D'Cruz,Trivikram Srinivas,S. Radha Krishna,2012-08-09,Telugu,Action Comedy,160,35,85,7.2,Netflix,NULL,0,Devi Sri Prasad,Haarika & Hassine Creations,1
+36,Iddarammayilatho,Allu Arjun,Amala Paul,Puri Jagannadh,Bandla Ganesh,2013-05-31,Telugu,Action Romance,152,40,55,6,Aha,NULL,0,Devi Sri Prasad,Parameswara Art Productions,1
+37,Race Gurram,Allu Arjun,Shruti Haasan,Surender Reddy,Nallamalupu Srinivas,2014-04-11,Telugu,Action Comedy,163,50,110,7.3,Sun NXT,NULL,0,S. Thaman,Sri Lakshmi Narasimha Productions,1
+38,Yevadu,Allu Arjun,Amy Jackson,Vamsi Paidipally,Dil Raju,2014-01-12,Telugu,Action Thriller,166,35,60,5.8,Amazon Prime Video,NULL,0,Devi Sri Prasad,Sri Venkateswara Creations,1
+39,S/O Satyamurthy,Allu Arjun,Samantha Ruth Prabhu,Trivikram Srinivas,S. Radha Krishna,2015-04-09,Telugu,Family Drama,162,50,90,7.1,Netflix,NULL,0,Devi Sri Prasad,Haarika & Hassine Creations,1
+40,Rudhramadevi,Allu Arjun,Catherine Tresa,Gunasekhar,Gunasekhar,2015-10-09,Telugu,Historical Drama,157,80,130,7,Amazon Prime Video,NULL,0,Ilaiyaraaja,Guna Team Works,1
+41,Sarrainodu,Allu Arjun,Rakul Preet Singh,Boyapati Srinu,Allu Aravind,2016-04-22,Telugu,Action,159,50,125,6.6,Sun NXT,NULL,0,S. Thaman,Geetha Arts,1
+42,DJ: Duvvada Jagannadham,Allu Arjun,Pooja Hegde,Harish Shankar,Dil Raju,2017-06-23,Telugu,Action Comedy,156,60,115,5.8,Amazon Prime Video,NULL,0,Devi Sri Prasad,Sri Venkateswara Creations,1
+43,"Naa Peru Surya, Naa Illu India",Allu Arjun,Anu Emmanuel,Vakkantham Vamsi,Sirisha Sridhar Lagadapati,2018-05-04,Telugu,Action Drama,168,65,95,6.7,Amazon Prime Video,NULL,0,Vishal–Shekhar,Ramalakshmi Cine Creations,1
+44,Ala Vaikunthapurramuloo,Allu Arjun,Pooja Hegde,Trivikram Srinivas,Allu Aravind,2020-01-12,Telugu,Family Drama,165,100,260,7.3,Netflix,NULL,0,S. Thaman,Geetha Arts,1
+45,Pushpa: The Rise,Allu Arjun,Rashmika Mandanna,Sukumar,Naveen Yerneni,2021-12-17,Telugu,Action Drama,179,200,373,7.6,Amazon Prime Video,Pushpa,1,Devi Sri Prasad,Mythri Movie Makers,1
+46,Pushpa 2: The Rule,Allu Arjun,Rashmika Mandanna,Sukumar,Naveen Yerneni,2024-12-05,Telugu,Action Drama,200,500,1800,8,Netflix,Pushpa,1,Devi Sri Prasad,Mythri Movie Makers,1
+47,Rajakumarudu,Mahesh Babu,Preity Zinta,K. Raghavendra Rao,C. Aswani Dutt,1999-07-30,Telugu,Romance,162,5,12,7.1,Sun NXT,NULL,0,Mani Sharma,Vyjayanthi Movies,1
+48,Yuvaraju,Mahesh Babu,Simran,Y. V. S. Chowdary,Burugupalli Sivarama Krishna,2000-04-14,Telugu,Romance Drama,151,6,8,5.9,Aha,NULL,0,Ramana Gogula,Sri Venkateswara Art Films,0
+49,Vamsi,Mahesh Babu,Namrata Shirodkar,B. Gopal,G. Adiseshagiri Rao,2000-10-04,Telugu,Romance,150,7,10,6.1,Aha,NULL,0,Mani Sharma,Padmalaya Studios,0
+50,Murari,Mahesh Babu,Sonali Bendre,Krishna Vamsi,N. Devi Prasad,2001-02-17,Telugu,Family Drama,179,8,22,8.1,Sun NXT,NULL,0,Mani Sharma,Ram Prasad Arts,1
+51,Takkari Donga,Mahesh Babu,Lisa Ray,Jayanth C. Paranjee,Jayanth C. Paranjee,2002-01-12,Telugu,Action Western,145,15,20,6.8,Amazon Prime Video,NULL,0,Mani Sharma,Jayanth Productions,1
+52,Bobby,Mahesh Babu,Aarthi Agarwal,Sobhan,K. Krishna Mohan Rao,2002-10-31,Telugu,Action Romance,160,12,18,5.4,Aha,NULL,0,Mani Sharma,K. Krishna Mohan Rao Productions,0
+53,Okkadu,Mahesh Babu,Bhumika Chawla,Gunasekhar,M. S. Raju,2003-01-15,Telugu,Sports Action,171,13,40,8.2,Sun NXT,NULL,0,Mani Sharma,Sumanth Art Productions,1
+54,Nijam,Mahesh Babu,Rakshita,Teja,Teja,2003-05-23,Telugu,Action Drama,185,10,12,6.4,Aha,NULL,0,R. P. Patnaik,Chitram Movies,0
+55,Naani,Mahesh Babu,Ameesha Patel,S. J. Surya,Indira Productions,2004-05-14,Telugu,Fantasy Drama,160,18,20,5.5,Amazon Prime Video,NULL,0,A. R. Rahman,Indira Productions,0
+56,Arjun,Mahesh Babu,Shriya Saran,Gunasekhar,G. Ramesh Babu,2004-08-18,Telugu,Action,166,20,35,7,Sun NXT,NULL,0,Mani Sharma,Krishna Productions,1
+57,Athadu,Mahesh Babu,Trisha,Trivikram Srinivas,D. Kishore,2005-08-10,Telugu,Action Thriller,172,22,45,8.2,Netflix,NULL,0,Mani Sharma,Jayabheri Arts,1
+58,Pokiri,Mahesh Babu,Ileana D'Cruz,Puri Jagannadh,Manjula Ghattamaneni,2006-04-28,Telugu,Action,164,12,70,8,Netflix,NULL,0,Mani Sharma,Indira Productions,1
+59,Sainikudu,Mahesh Babu,Trisha,Gunasekhar,Ashwini Dutt,2006-11-30,Telugu,Action,169,35,45,5.4,Aha,NULL,0,Harris Jayaraj,Vyjayanthi Movies,0
+60,Athidhi,Mahesh Babu,Amrita Rao,Surender Reddy,G. Ramesh Babu,2007-10-18,Telugu,Action Thriller,172,32,55,6.3,Amazon Prime Video,NULL,0,Mani Sharma,Krishna Productions,1
+61,Khaleja,Mahesh Babu,Anushka Shetty,Trivikram Srinivas,C. Ashwini Dutt,2010-10-07,Telugu,Fantasy Action,170,40,50,7.6,Sun NXT,NULL,0,Mani Sharma,Vyjayanthi Movies,1
+62,Dookudu,Mahesh Babu,Samantha Ruth Prabhu,Srinu Vaitla,Anil Sunkara,2011-09-23,Telugu,Action Comedy,174,35,100,7.4,Netflix,NULL,0,S. Thaman,14 Reels Entertainment,1
+63,Businessman,Mahesh Babu,Kajal Aggarwal,Puri Jagannadh,R. R. Venkat,2012-01-13,Telugu,Action Crime,133,40,85,7.2,Netflix,NULL,0,S. Thaman,R. R. Movie Makers,1
+64,Seethamma Vakitlo Sirimalle Chettu,Mahesh Babu,Samantha Ruth Prabhu,Srikanth Addala,Dil Raju,2013-01-11,Telugu,Family Drama,159,50,90,7.5,Amazon Prime Video,NULL,0,Mickey J Meyer,Sri Venkateswara Creations,1
+65,1: Nenokkadine,Mahesh Babu,Kriti Sanon,Sukumar,Ram Achanta,2014-01-10,Telugu,Psychological Thriller,170,70,62,8,Netflix,NULL,0,Devi Sri Prasad,14 Reels Entertainment,0
+66,Aagadu,Mahesh Babu,Tamannaah Bhatia,Srinu Vaitla,Ram Achanta,2014-09-19,Telugu,Action Comedy,165,60,80,5.3,Amazon Prime Video,NULL,0,S. Thaman,14 Reels Entertainment,0
+67,Srimanthudu,Mahesh Babu,Shruti Haasan,Koratala Siva,Naveen Yerneni,2015-08-07,Telugu,Action Drama,158,55,145,7.6,Amazon Prime Video,NULL,0,Devi Sri Prasad,Mythri Movie Makers,1
+68,Brahmotsavam,Mahesh Babu,Samantha Ruth Prabhu,Srikanth Addala,Prasad V. Potluri,2016-05-20,Telugu,Family Drama,156,75,65,4.4,Sun NXT,NULL,0,Mickey J Meyer,PVP Cinema,0
+69,Spyder,Mahesh Babu,Rakul Preet Singh,A. R. Murugadoss,N. V. Prasad,2017-09-27,Telugu,Spy Thriller,145,120,150,6.5,SonyLIV,NULL,1,Harris Jayaraj,NVR Cinema,1
+70,Bharat Ane Nenu,Mahesh Babu,Kiara Advani,Koratala Siva,D. V. V. Danayya,2018-04-20,Telugu,Political Drama,173,65,225,7.5,Amazon Prime Video,NULL,0,Devi Sri Prasad,DVV Entertainment,1
+71,Maharshi,Mahesh Babu,Pooja Hegde,Vamsi Paidipally,Dil Raju,2019-05-09,Telugu,Drama,176,100,175,7.3,Amazon Prime Video,NULL,0,Devi Sri Prasad,Sri Venkateswara Creations,1
+72,Sarileru Neekevvaru,Mahesh Babu,Rashmika Mandanna,Anil Ravipudi,Anil Sunkara,2020-01-11,Telugu,Action Comedy,169,75,260,6.9,Amazon Prime Video,NULL,0,Devi Sri Prasad,AK Entertainments,1
+73,Sarkaru Vaari Paata,Mahesh Babu,Keerthy Suresh,Parasuram,Naveen Yerneni,2022-05-12,Telugu,Action Drama,162,140,230,6,Amazon Prime Video,NULL,0,S. Thaman,Mythri Movie Makers,1
+74,Guntur Kaaram,Mahesh Babu,Sreeleela,Trivikram Srinivas,S. Radha Krishna,2024-01-12,Telugu,Action Drama,159,200,250,5.8,Netflix,NULL,0,S. Thaman,Haarika & Hassine Creations,1
+75,Ninnu Choodalani,Jr NTR,Raveena Rajput,V. R. Prathap,R. B. Choudary,2001-05-25,Telugu,Romance,145,3,2,4.5,Aha,NULL,0,S. A. Rajkumar,Super Good Films,0
+76,Student No.1,Jr NTR,Gajala,S. S. Rajamouli,K. Raghavendra Rao,2001-09-27,Telugu,Action Drama,146,4,12,7.5,Sun NXT,NULL,0,M. M. Keeravani,Sri Rajeshwari Films,1
+77,Aadi,Jr NTR,Keerthi Chawla,V. V. Vinayak,Bellamkonda Suresh,2002-03-28,Telugu,Action,155,8,25,7.8,Sun NXT,NULL,0,Mani Sharma,Sri Sai Ganesh Productions,1
+78,Allari Ramudu,Jr NTR,Arthi Agarwal,B. Gopal,Chanti Addala,2002-07-19,Telugu,Action Comedy,160,10,18,6,Aha,NULL,0,R. P. Patnaik,Sri Lakshmi Narasimha Productions,1
+79,Naaga,Jr NTR,Sadaa,D. K. Suresh,A. M. Rathnam,2003-01-10,Telugu,Action Drama,150,12,14,4.8,Aha,NULL,0,Vidyasagar,Sri Surya Movies,0
+80,Simhadri,Jr NTR,Bhumika Chawla,S. S. Rajamouli,V. Doraswamy Raju,2003-07-09,Telugu,Action Drama,172,8,30,7.8,Sun NXT,NULL,0,M. M. Keeravani,Vijaya Maruthi Creations,1
+81,Andhrawala,Jr NTR,Rakshita,Puri Jagannadh,Gemini Kiran,2004-01-01,Telugu,Action,165,15,20,3.5,Aha,NULL,0,Chakri,Sri Bharathi Enterprises,0
+82,Samba,Jr NTR,Genelia D'Souza,V. V. Vinayak,Kodali Nani,2004-07-09,Telugu,Action,162,18,35,6.5,Amazon Prime Video,NULL,0,Mani Sharma,Kodali Films,1
+83,Naa Alludu,Jr NTR,Shriya Saran,Vara Mullapudi,D. Sivaprasad Reddy,2005-01-14,Telugu,Family Comedy,155,15,18,4.2,Aha,NULL,0,Devi Sri Prasad,Kamakshi Movies,0
+84,Narasimhudu,Jr NTR,Sameera Reddy,B. Gopal,Chengala Venkat Rao,2005-05-20,Telugu,Action,165,20,16,3,Aha,NULL,0,Mani Sharma,Satyanarayanamma Productions,0
+85,Ashok,Jr NTR,Sameera Reddy,Surender Reddy,Valluripalli Ramesh,2006-07-13,Telugu,Action Thriller,170,22,28,5.5,Amazon Prime Video,NULL,0,Mani Sharma,Maharshi Cinema,1
+86,Rakhi,Jr NTR,Ileana D'Cruz,Krishna Vamsi,K. L. Narayana,2006-12-22,Telugu,Action Drama,173,18,40,7.2,Sun NXT,NULL,0,Devi Sri Prasad,Sri Durga Arts,1
+87,Yamadonga,Jr NTR,Priyamani,S. S. Rajamouli,Chalasani Gopi,2007-08-15,Telugu,Fantasy Action,179,20,55,7.3,Sun NXT,NULL,0,M. M. Keeravani,Visvamitra Creations,1
+88,Kantri,Jr NTR,Hansika Motwani,Meher Ramesh,C. Ashwini Dutt,2008-05-09,Telugu,Action,150,30,35,5.1,Aha,NULL,0,Mani Sharma,Vyjayanthi Movies,1
+89,Adhurs,Jr NTR,Nayanthara,V. V. Vinayak,Vallabhaneni Vamsi,2010-01-13,Telugu,Action Comedy,150,26,45,7.4,Sun NXT,NULL,0,Devi Sri Prasad,Vaishnavi Arts,1
+90,Brindavanam,Jr NTR,Kajal Aggarwal,Vamsi Paidipally,Dil Raju,2010-10-14,Telugu,Family Drama,170,30,48,7.1,Sun NXT,NULL,0,S. Thaman,Sri Venkateswara Creations,1
+91,Shakti,Jr NTR,Ileana D'Cruz,Meher Ramesh,C. Ashwini Dutt,2011-04-01,Telugu,Fantasy Action,178,45,38,3.3,Aha,NULL,0,Mani Sharma,Vyjayanthi Movies,0
+92,Oosaravelli,Jr NTR,Tamannaah Bhatia,Surender Reddy,B. V. S. N. Prasad,2011-10-06,Telugu,Action Thriller,166,35,55,6.6,Amazon Prime Video,NULL,0,Devi Sri Prasad,Sri Venkateswara Cine Chitra,1
+93,Dhammu,Jr NTR,Trisha,Boyapati Srinu,K. S. Rama Rao,2012-04-27,Telugu,Action Drama,156,40,52,5.7,Aha,NULL,0,M. M. Keeravani,Creative Commercials,1
+94,Baadshah,Jr NTR,Kajal Aggarwal,Srinu Vaitla,Bandla Ganesh,2013-04-05,Telugu,Action Comedy,165,50,80,6.5,Netflix,NULL,0,S. Thaman,Parameswara Art Productions,1
+95,Ramayya Vasthavayya,Jr NTR,Samantha Ruth Prabhu,Harish Shankar,Dil Raju,2013-10-11,Telugu,Action Drama,165,50,48,5,Amazon Prime Video,NULL,0,S. Thaman,Sri Venkateswara Creations,0
+96,Rabhasa,Jr NTR,Samantha Ruth Prabhu,Santosh Srinivas,Bellamkonda Suresh,2014-08-29,Telugu,Action Comedy,153,50,55,4.8,Sun NXT,NULL,0,S. Thaman,Sri Sai Ganesh Productions,1
+97,Temper,Jr NTR,Kajal Aggarwal,Puri Jagannadh,Bandla Ganesh,2015-02-13,Telugu,Action Crime,147,40,75,7.4,Netflix,NULL,0,Anup Rubens,Parameswara Art Productions,1
+98,Nannaku Prematho,Jr NTR,Rakul Preet Singh,Sukumar,B. V. S. N. Prasad,2016-01-13,Telugu,Thriller Drama,168,50,85,8,Netflix,NULL,0,Devi Sri Prasad,Sri Venkateswara Cine Chitra,1
+99,Janatha Garage,Jr NTR,Samantha Ruth Prabhu,Koratala Siva,Naveen Yerneni,2016-09-01,Telugu,Action Drama,162,50,150,7.3,Amazon Prime Video,NULL,0,Devi Sri Prasad,Mythri Movie Makers,1
+100,Jai Lava Kusa,Jr NTR,Raashi Khanna,K. S. Ravindra,Nandamuri Kalyan Ram,2017-09-21,Telugu,Action Drama,150,60,130,7.2,Amazon Prime Video,NULL,0,Devi Sri Prasad,NTR Arts,1
+101,Aravinda Sametha Veera Raghava,Jr NTR,Pooja Hegde,Trivikram Srinivas,S. Radha Krishna,2018-10-11,Telugu,Action Drama,162,95,165,7.4,Netflix,NULL,0,S. Thaman,Haarika & Hassine Creations,1
+102,RRR,Jr NTR,Olivia Morris,S. S. Rajamouli,D. V. V. Danayya,2022-03-25,Telugu,Epic Action,182,550,1300,8,Netflix,RRR,1,M. M. Keeravani,DVV Entertainment,1
+103,Devara: Part 1,Jr NTR,Janhvi Kapoor,Koratala Siva,Sudhakar Mikkilineni,2024-09-27,Telugu,Action Drama,178,300,500,7.1,Netflix,Devara,1,Anirudh Ravichander,Yuvasudha Arts,1
+104,Chirutha,Ram Charan,Neha Sharma,Puri Jagannadh,C. Ashwini Dutt,2007-09-28,Telugu,Action Romance,151,8,25,6.4,Sun NXT,NULL,0,Mani Sharma,Vyjayanthi Movies,1
+105,Magadheera,Ram Charan,Kajal Aggarwal,S. S. Rajamouli,Allu Aravind,2009-07-31,Telugu,Fantasy Action,166,35,150,7.7,Netflix,NULL,0,M. M. Keeravani,Geetha Arts,1
+106,Orange,Ram Charan,Genelia D'Souza,Bhaskar,Nagendra Babu,2010-11-26,Telugu,Romance Drama,162,40,35,6.6,Netflix,NULL,0,Harris Jayaraj,Anjana Productions,0
+107,Rachcha,Ram Charan,Tamannaah Bhatia,Sampath Nandi,N. V. Prasad,2012-04-05,Telugu,Action,145,28,48,6.1,Sun NXT,NULL,0,Mani Sharma,Mega Super Good Films,1
+108,Naayak,Ram Charan,Kajal Aggarwal,V. V. Vinayak,D. V. V. Danayya,2013-01-09,Telugu,Action Comedy,153,40,75,6.8,Amazon Prime Video,NULL,0,S. Thaman,Universal Media,1
+109,Zanjeer,Ram Charan,Priyanka Chopra Jonas,Apoorva Lakhia,Amit Mehra,2013-09-06,Telugu/Hindi,Action Crime,137,60,40,3.4,ZEE5,NULL,1,Anand Raj Anand,Reliance Entertainment,0
+110,Yevadu,Ram Charan,Shruti Haasan,Vamsi Paidipally,Dil Raju,2014-01-12,Telugu,Action Thriller,166,35,60,5.8,Amazon Prime Video,NULL,0,Devi Sri Prasad,Sri Venkateswara Creations,1
+111,Govindudu Andarivadele,Ram Charan,Kajal Aggarwal,Krishna Vamsi,Bandla Ganesh,2014-10-01,Telugu,Family Drama,149,40,65,6,Sun NXT,NULL,0,Yuvan Shankar Raja,Parameswara Art Productions,1
+112,Bruce Lee: The Fighter,Ram Charan,Rakul Preet Singh,Sreenu Vaitla,D. V. V. Danayya,2015-10-16,Telugu,Action Comedy,151,50,60,5,Amazon Prime Video,NULL,0,S. Thaman,DVV Entertainment,1
+113,Dhruva,Ram Charan,Rakul Preet Singh,Surender Reddy,Allu Aravind,2016-12-09,Telugu,Action Thriller,165,50,90,7.7,Netflix,NULL,0,Hiphop Tamizha,Geetha Arts,1
+114,Khaidi No. 150 (Special Appearance),Ram Charan,Kajal Aggarwal,V. V. Vinayak,Ram Charan,2017-01-11,Telugu,Action,147,50,165,7.2,Sun NXT,Khaidi,0,Devi Sri Prasad,Konidela Production Company,1
+115,Rangasthalam,Ram Charan,Samantha Ruth Prabhu,Sukumar,Naveen Yerneni,2018-03-30,Telugu,Period Action Drama,179,60,216,8.2,Amazon Prime Video,NULL,0,Devi Sri Prasad,Mythri Movie Makers,1
+116,Vinaya Vidheya Rama,Ram Charan,Kiara Advani,Boyapati Srinu,D. V. V. Danayya,2019-01-11,Telugu,Action,146,90,95,3.3,ZEE5,NULL,0,Devi Sri Prasad,DVV Entertainment,0
+117,RRR,Ram Charan,Alia Bhatt,S. S. Rajamouli,D. V. V. Danayya,2022-03-25,Telugu,Epic Action,182,550,1300,8,Netflix,RRR,1,M. M. Keeravani,DVV Entertainment,1
+118,Acharya,Ram Charan,Pooja Hegde,Koratala Siva,Ram Charan,2022-04-29,Telugu,Action Drama,152,140,80,3.8,Amazon Prime Video,NULL,0,Mani Sharma,Konidela Production Company,0
+119,Kisi Ka Bhai... Kisi Ki Jaan (Special Appearance Song),Ram Charan,Pooja Hegde,Farhad Samji,Salman Khan,2023-04-21,Hindi,Action Comedy,144,125,180,5,ZEE5,NULL,1,Ravi Basrur,Salman Khan Films,1
+120,Game Changer,Ram Charan,Kiara Advani,S. Shankar,Dil Raju,2025-01-10,Telugu,Political Action Drama,170,450,550,7.2,Amazon Prime Video,NULL,1,S. Thaman,Sri Venkateswara Creations,1
+121,Akkada Ammayi Ikkada Abbayi,Pawan Kalyan,Supriya Yarlagadda,E. V. V. Satyanarayana,Allu Aravind,1996-10-11,Telugu,Romance,145,2,4,6,Aha,NULL,0,Koti,Geetha Arts,1
+122,Gokulamlo Seeta,Pawan Kalyan,Raasi,Muthyala Subbaiah,G. V. G. Raju,1997-08-22,Telugu,Drama,150,3,6,6.7,Aha,NULL,0,Koti,Bhargav Arts,1
+123,Suswagatham,Pawan Kalyan,Devayani,Bhimaneni Srinivasa Rao,R. B. Choudary,1998-01-01,Telugu,Romance Drama,150,4,10,7.3,Sun NXT,NULL,0,S. A. Rajkumar,Super Good Films,1
+124,Tholi Prema,Pawan Kalyan,Keerthi Reddy,A. Karunakaran,G. V. G. Raju,1998-07-24,Telugu,Romance,158,3,21,8.2,Aha,NULL,0,Deva,SSC Arts,1
+125,Thammudu,Pawan Kalyan,Preeti Jhangiani,P. A. Arun Prasad,Burugupalli Sivarama Krishna,1999-07-15,Telugu,Sports Drama,162,5,18,7.8,Sun NXT,NULL,0,Ramana Gogula,Sri Venkateswara Art Films,1
+126,Badri,Pawan Kalyan,Ameesha Patel,Puri Jagannadh,T. Trivikrama Rao,2000-04-20,Telugu,Action Romance,158,7,25,7.5,Aha,NULL,0,Ramana Gogula,Vijaya Lakshmi Art Movies,1
+127,Kushi,Pawan Kalyan,Bhumika Chawla,S. J. Surya,A. M. Rathnam,2001-04-27,Telugu,Romance,177,8,30,8.1,Sun NXT,NULL,0,Mani Sharma,Sri Surya Movies,1
+128,Johnny,Pawan Kalyan,Renu Desai,Pawan Kalyan,Allu Aravind,2003-04-25,Telugu,Action Drama,178,18,20,6.5,Aha,NULL,0,Ramana Gogula,Geetha Arts,0
+129,Shankar Dada M.B.B.S.,Pawan Kalyan,Sonali Bendre,Jayanth C. Paranjee,Gemini Kiran,2004-10-15,Telugu,Comedy Drama,165,12,30,7,Sun NXT,Shankar Dada,0,Devi Sri Prasad,Gemini Film Circuit,1
+130,Gudumba Shankar,Pawan Kalyan,Meera Jasmine,Veera Shankar,Nagendra Babu,2004-09-10,Telugu,Action Comedy,170,15,22,5.8,Aha,NULL,0,Mani Sharma,Anjana Productions,1
+131,Balu ABCDEFG,Pawan Kalyan,Shriya Saran,A. Karunakaran,Ashwini Dutt,2005-01-06,Telugu,Action Drama,168,18,28,6.6,Amazon Prime Video,NULL,0,Mani Sharma,Vyjayanthi Movies,1
+132,Bangaram,Pawan Kalyan,Meera Chopra,Dharani,A. M. Rathnam,2006-05-03,Telugu,Action,178,20,25,4.5,Aha,NULL,0,Vidyasagar,Sri Surya Movies,0
+133,Annavaram,Pawan Kalyan,Asin,Bhimaneni Srinivasa Rao,R. B. Choudary,2006-12-29,Telugu,Action Drama,175,22,45,6.8,Sun NXT,NULL,0,Ramana Gogula,Super Good Films,1
+134,Shankar Dada Zindabad,Pawan Kalyan,Karishma Kotak,Prabhu Deva,Gemini Kiran,2007-07-27,Telugu,Comedy Drama,165,25,35,5.6,Sun NXT,Shankar Dada,0,Devi Sri Prasad,Gemini Film Circuit,1
+135,Jalsa,Pawan Kalyan,Ileana D'Cruz,Trivikram Srinivas,Allu Aravind,2008-04-02,Telugu,Action Comedy,172,25,60,8,Netflix,NULL,0,Devi Sri Prasad,Geetha Arts,1
+136,Komaram Puli,Pawan Kalyan,Nikisha Patel,S. J. Surya,Singanamala Ramesh,2010-09-10,Telugu,Action,163,40,45,3.3,Aha,NULL,0,A. R. Rahman,Kanakaratna Movies,0
+137,Teen Maar,Pawan Kalyan,Trisha,Jayanth C. Paranjee,Ganesh Babu,2011-04-14,Telugu,Romance Drama,157,35,50,6.3,Amazon Prime Video,NULL,0,Mani Sharma,Parameswara Art Productions,1
+138,Panjaa,Pawan Kalyan,Sarah Jane Dias,Vishnuvardhan,Neelima Tirumalasetti,2011-12-09,Telugu,Action Thriller,156,40,55,7.1,Netflix,NULL,0,Yuvan Shankar Raja,Sanghamitra Arts,1
+139,Gabbar Singh,Pawan Kalyan,Shruti Haasan,Harish Shankar,Bandla Ganesh,2012-05-11,Telugu,Action Comedy,153,30,150,7.8,Netflix,Gabbar Singh,0,Devi Sri Prasad,Parameswara Art Productions,1
+140,Cameraman Ganga Tho Rambabu,Pawan Kalyan,Tamannaah Bhatia,Puri Jagannadh,D. V. V. Danayya,2012-10-18,Telugu,Action Drama,140,35,70,5.8,Amazon Prime Video,NULL,0,Mani Sharma,Universal Media,1
+141,Attarintiki Daredi,Pawan Kalyan,Samantha Ruth Prabhu,Trivikram Srinivas,B. V. S. N. Prasad,2013-09-27,Telugu,Family Drama,169,50,190,7.4,Netflix,NULL,0,Devi Sri Prasad,Sri Venkateswara Cine Chitra,1
+142,Gopala Gopala,Pawan Kalyan,Shriya Saran,Kishore Kumar Pardasani,D. Suresh Babu,2015-01-10,Telugu,Fantasy Drama,153,30,60,7.2,Sun NXT,NULL,0,Anoop Rubens,Suresh Productions,1
+143,Sardaar Gabbar Singh,Pawan Kalyan,Kajal Aggarwal,K. S. Ravindra,Sharrath Marar,2016-04-08,Telugu,Action,164,70,90,4.7,Amazon Prime Video,Gabbar Singh,0,Devi Sri Prasad,Northstar Entertainment,0
+144,Katamarayudu,Pawan Kalyan,Shruti Haasan,Kishore Kumar Pardasani,Sharrath Marar,2017-03-24,Telugu,Action Drama,149,60,100,5.5,Amazon Prime Video,NULL,0,Anup Rubens,Northstar Entertainment,1
+145,Agnyaathavaasi,Pawan Kalyan,Keerthy Suresh,Trivikram Srinivas,S. Radha Krishna,2018-01-10,Telugu,Action Drama,158,90,85,4.3,Netflix,NULL,0,Anirudh Ravichander,Haarika & Hassine Creations,0
+146,Vakeel Saab,Pawan Kalyan,Anjali,Venu Sriram,Dil Raju,2021-04-09,Telugu,Legal Drama,155,90,170,7,Amazon Prime Video,NULL,0,S. Thaman,Sri Venkateswara Creations,1
+147,Bheemla Nayak,Pawan Kalyan,Nithya Menen,Saagar K Chandra,Suryadevara Naga Vamsi,2022-02-25,Telugu,Action Drama,145,75,190,7.2,Disney+ Hotstar,NULL,0,S. Thaman,Sithara Entertainments,1
+148,Bro,Pawan Kalyan,Ketika Sharma,Samuthirakani,T. G. Vishwa Prasad,2023-07-28,Telugu,Fantasy Comedy,133,100,120,6,Netflix,NULL,0,S. Thaman,People Media Factory,1
+149,Hari Hara Veera Mallu: Part 1,Pawan Kalyan,Nidhhi Agerwal,Krish Jagarlamudi,A. Dayakar Rao,2025-06-12,Telugu,Historical Action,180,250,400,7.5,Amazon Prime Video,Hari Hara Veera Mallu,1,M. M. Keeravani,Mega Surya Production,1
+150,They Call Him OG,Pawan Kalyan,Priyanka Arul Mohan,Sujeeth,D. V. V. Danayya,2025-09-25,Telugu,Gangster Action,170,250,450,7.8,Netflix,OG,1,S. Thaman,DVV Entertainment,1
+151,Ustaad Bhagat Singh,Pawan Kalyan,Sreeleela,Harish Shankar,Naveen Yerneni,2026-05-15,Telugu,Action Drama,165,200,350,7.3,Amazon Prime Video,NULL,1,Devi Sri Prasad,Mythri Movie Makers,1
+152,Akkada Ammayi Ikkada Abbayi,Pawan Kalyan,Supriya Yarlagadda,E. V. V. Satyanarayana,Allu Aravind,1996-10-11,Telugu,Romance,145,2,4,6,Aha,NULL,0,Koti,Geetha Arts,1
+153,Gokulamlo Seeta,Pawan Kalyan,Raasi,Muthyala Subbaiah,G. V. G. Raju,1997-08-22,Telugu,Drama,150,3,6,6.7,Aha,NULL,0,Koti,Bhargav Arts,1
+154,Suswagatham,Pawan Kalyan,Devayani,Bhimaneni Srinivasa Rao,R. B. Choudary,1998-01-01,Telugu,Romance Drama,150,4,10,7.3,Sun NXT,NULL,0,S. A. Rajkumar,Super Good Films,1
+155,Tholi Prema,Pawan Kalyan,Keerthi Reddy,A. Karunakaran,G. V. G. Raju,1998-07-24,Telugu,Romance,158,3,21,8.2,Aha,NULL,0,Deva,SSC Arts,1
+156,Thammudu,Pawan Kalyan,Preeti Jhangiani,P. A. Arun Prasad,Burugupalli Sivarama Krishna,1999-07-15,Telugu,Sports Drama,162,5,18,7.8,Sun NXT,NULL,0,Ramana Gogula,Sri Venkateswara Art Films,1
+157,Badri,Pawan Kalyan,Ameesha Patel,Puri Jagannadh,T. Trivikrama Rao,2000-04-20,Telugu,Action Romance,158,7,25,7.5,Aha,NULL,0,Ramana Gogula,Vijaya Lakshmi Art Movies,1
+158,Kushi,Pawan Kalyan,Bhumika Chawla,S. J. Surya,A. M. Rathnam,2001-04-27,Telugu,Romance,177,8,30,8.1,Sun NXT,NULL,0,Mani Sharma,Sri Surya Movies,1
+159,Johnny,Pawan Kalyan,Renu Desai,Pawan Kalyan,Allu Aravind,2003-04-25,Telugu,Action Drama,178,18,20,6.5,Aha,NULL,0,Ramana Gogula,Geetha Arts,0
+160,Shankar Dada M.B.B.S.,Pawan Kalyan,Sonali Bendre,Jayanth C. Paranjee,Gemini Kiran,2004-10-15,Telugu,Comedy Drama,165,12,30,7,Sun NXT,Shankar Dada,0,Devi Sri Prasad,Gemini Film Circuit,1
+161,Gudumba Shankar,Pawan Kalyan,Meera Jasmine,Veera Shankar,Nagendra Babu,2004-09-10,Telugu,Action Comedy,170,15,22,5.8,Aha,NULL,0,Mani Sharma,Anjana Productions,1
+162,Balu ABCDEFG,Pawan Kalyan,Shriya Saran,A. Karunakaran,Ashwini Dutt,2005-01-06,Telugu,Action Drama,168,18,28,6.6,Amazon Prime Video,NULL,0,Mani Sharma,Vyjayanthi Movies,1
+163,Bangaram,Pawan Kalyan,Meera Chopra,Dharani,A. M. Rathnam,2006-05-03,Telugu,Action,178,20,25,4.5,Aha,NULL,0,Vidyasagar,Sri Surya Movies,0
+164,Annavaram,Pawan Kalyan,Asin,Bhimaneni Srinivasa Rao,R. B. Choudary,2006-12-29,Telugu,Action Drama,175,22,45,6.8,Sun NXT,NULL,0,Ramana Gogula,Super Good Films,1
+165,Shankar Dada Zindabad,Pawan Kalyan,Karishma Kotak,Prabhu Deva,Gemini Kiran,2007-07-27,Telugu,Comedy Drama,165,25,35,5.6,Sun NXT,Shankar Dada,0,Devi Sri Prasad,Gemini Film Circuit,1
+166,Jalsa,Pawan Kalyan,Ileana D'Cruz,Trivikram Srinivas,Allu Aravind,2008-04-02,Telugu,Action Comedy,172,25,60,8,Netflix,NULL,0,Devi Sri Prasad,Geetha Arts,1
+167,Komaram Puli,Pawan Kalyan,Nikisha Patel,S. J. Surya,Singanamala Ramesh,2010-09-10,Telugu,Action,163,40,45,3.3,Aha,NULL,0,A. R. Rahman,Kanakaratna Movies,0
+168,Teen Maar,Pawan Kalyan,Trisha,Jayanth C. Paranjee,Ganesh Babu,2011-04-14,Telugu,Romance Drama,157,35,50,6.3,Amazon Prime Video,NULL,0,Mani Sharma,Parameswara Art Productions,1
+169,Panjaa,Pawan Kalyan,Sarah Jane Dias,Vishnuvardhan,Neelima Tirumalasetti,2011-12-09,Telugu,Action Thriller,156,40,55,7.1,Netflix,NULL,0,Yuvan Shankar Raja,Sanghamitra Arts,1
+170,Gabbar Singh,Pawan Kalyan,Shruti Haasan,Harish Shankar,Bandla Ganesh,2012-05-11,Telugu,Action Comedy,153,30,150,7.8,Netflix,Gabbar Singh,0,Devi Sri Prasad,Parameswara Art Productions,1
+171,Cameraman Ganga Tho Rambabu,Pawan Kalyan,Tamannaah Bhatia,Puri Jagannadh,D. V. V. Danayya,2012-10-18,Telugu,Action Drama,140,35,70,5.8,Amazon Prime Video,NULL,0,Mani Sharma,Universal Media,1
+172,Attarintiki Daredi,Pawan Kalyan,Samantha Ruth Prabhu,Trivikram Srinivas,B. V. S. N. Prasad,2013-09-27,Telugu,Family Drama,169,50,190,7.4,Netflix,NULL,0,Devi Sri Prasad,Sri Venkateswara Cine Chitra,1
+173,Gopala Gopala,Pawan Kalyan,Shriya Saran,Kishore Kumar Pardasani,D. Suresh Babu,2015-01-10,Telugu,Fantasy Drama,153,30,60,7.2,Sun NXT,NULL,0,Anoop Rubens,Suresh Productions,1
+174,Sardaar Gabbar Singh,Pawan Kalyan,Kajal Aggarwal,K. S. Ravindra,Sharrath Marar,2016-04-08,Telugu,Action,164,70,90,4.7,Amazon Prime Video,Gabbar Singh,0,Devi Sri Prasad,Northstar Entertainment,0
+175,Katamarayudu,Pawan Kalyan,Shruti Haasan,Kishore Kumar Pardasani,Sharrath Marar,2017-03-24,Telugu,Action Drama,149,60,100,5.5,Amazon Prime Video,NULL,0,Anup Rubens,Northstar Entertainment,1
+176,Agnyaathavaasi,Pawan Kalyan,Keerthy Suresh,Trivikram Srinivas,S. Radha Krishna,2018-01-10,Telugu,Action Drama,158,90,85,4.3,Netflix,NULL,0,Anirudh Ravichander,Haarika & Hassine Creations,0
+177,Vakeel Saab,Pawan Kalyan,Anjali,Venu Sriram,Dil Raju,2021-04-09,Telugu,Legal Drama,155,90,170,7,Amazon Prime Video,NULL,0,S. Thaman,Sri Venkateswara Creations,1
+178,Bheemla Nayak,Pawan Kalyan,Nithya Menen,Saagar K Chandra,Suryadevara Naga Vamsi,2022-02-25,Telugu,Action Drama,145,75,190,7.2,Disney+ Hotstar,NULL,0,S. Thaman,Sithara Entertainments,1
+179,Bro,Pawan Kalyan,Ketika Sharma,Samuthirakani,T. G. Vishwa Prasad,2023-07-28,Telugu,Fantasy Comedy,133,100,120,6,Netflix,NULL,0,S. Thaman,People Media Factory,1
+180,Hari Hara Veera Mallu: Part 1,Pawan Kalyan,Nidhhi Agerwal,Krish Jagarlamudi,A. Dayakar Rao,2025-06-12,Telugu,Historical Action,180,250,400,7.5,Amazon Prime Video,Hari Hara Veera Mallu,1,M. M. Keeravani,Mega Surya Production,1
+181,They Call Him OG,Pawan Kalyan,Priyanka Arul Mohan,Sujeeth,D. V. V. Danayya,2025-09-25,Telugu,Gangster Action,170,250,450,7.8,Netflix,OG,1,S. Thaman,DVV Entertainment,1
+182,Ustaad Bhagat Singh,Pawan Kalyan,Sreeleela,Harish Shankar,Naveen Yerneni,2026-05-15,Telugu,Action Drama,165,200,350,7.3,Amazon Prime Video,NULL,1,Devi Sri Prasad,Mythri Movie Makers,1
+183,Nuvvila (Minor Role),Vijay Deverakonda,Yami Gautam,Ravi Babu,Ramoji Rao,2011-11-03,Telugu,Romantic Comedy,140,3,5,6.4,Aha,NULL,0,Shekar Chandra,Ushakiran Movies,1
+184,Life Is Beautiful (Supporting Role),Vijay Deverakonda,Amala Akkineni,Sekhar Kammula,Chandrasekhar Kammula,2012-09-14,Telugu,Coming-of-Age Drama,167,8,15,7.1,Sun NXT,NULL,0,Mickey J Meyer,Amigos Creations,1
+185,Yevade Subramanyam,Vijay Deverakonda,Malavika Nair,Nag Ashwin,Priyanka Dutt,2015-03-21,Telugu,Adventure Drama,160,8,25,8,Netflix,NULL,0,Radhan,Swapna Cinema,1
+186,Pelli Choopulu,Vijay Deverakonda,Ritu Varma,Tharun Bhascker,Raj Kandukuri,2016-07-29,Telugu,Romantic Comedy,124,1,30,8.2,Netflix,NULL,0,Vivek Sagar,BigBen Cinemas,1
+187,Dwaraka,Vijay Deverakonda,Pooja Jhaveri,Srinivasa Ravindra,Pradyumna Chandrapati,2017-03-03,Telugu,Comedy Drama,148,4,8,5.8,Aha,NULL,0,Sai Karthik,Legend Cinema,1
+188,Arjun Reddy,Vijay Deverakonda,Shalini Pandey,Sandeep Reddy Vanga,Pranay Reddy Vanga,2017-08-25,Telugu,Romantic Drama,186,5,90,8.1,Amazon Prime Video,Arjun Reddy,0,Radhan,Bhadrakali Pictures,1
+189,Mahanati,Vijay Deverakonda,Samantha Ruth Prabhu,Nag Ashwin,Priyanka Dutt,2018-05-09,Telugu,Biographical Drama,177,25,80,8.4,Amazon Prime Video,NULL,0,Mickey J Meyer,Swapna Cinema,1
+190,Ye Mantram Vesave,Vijay Deverakonda,Shivani Singh,Shridhar Marri,Golisoda Films,2018-03-09,Telugu,Romance,123,3,2,4.5,Aha,NULL,0,Abdus Samad,Golisoda Films,0
+191,Geetha Govindam,Vijay Deverakonda,Rashmika Mandanna,Parasuram,Bunny Vasu,2018-08-15,Telugu,Romantic Comedy,148,5,130,7.7,Amazon Prime Video,NULL,0,Gopi Sundar,GA2 Pictures,1
+192,NOTA,Vijay Deverakonda,Mehreen Pirzada,Anand Shankar,K. E. Gnanavel Raja,2018-10-05,Telugu/Tamil,Political Thriller,146,30,25,6,Netflix,NULL,0,Sam C. S.,Studio Green,0
+193,Taxiwala,Vijay Deverakonda,Priyanka Jawalkar,Rahul Sankrityan,S. K. N.,2018-11-17,Telugu,Horror Comedy,137,5,70,7.1,Amazon Prime Video,NULL,0,Jakes Bejoy,GA2 Pictures,1
+194,Dear Comrade,Vijay Deverakonda,Rashmika Mandanna,Bharat Kamma,Yash Rangineni,2019-07-26,Telugu,Romantic Drama,170,34,36,7.3,Amazon Prime Video,NULL,1,Justin Prabhakaran,Mythri Movie Makers,1
+195,World Famous Lover,Vijay Deverakonda,Raashi Khanna,Kranthi Madhav,K. A. Vallabha,2020-02-14,Telugu,Romantic Drama,154,30,22,5.4,Netflix,NULL,0,Gopi Sundar,Creative Commercials,0
+196,Liger,Vijay Deverakonda,Ananya Panday,Puri Jagannadh,Karan Johar,2022-08-25,Telugu/Hindi,Sports Action,140,125,60,2.8,Disney+ Hotstar,NULL,1,Mani Sharma,Dharma Productions,0
+197,Kushi,Vijay Deverakonda,Samantha Ruth Prabhu,Shiva Nirvana,Naveen Yerneni,2023-09-01,Telugu,Romantic Drama,163,50,70,6.9,Netflix,NULL,0,Hesham Abdul Wahab,Mythri Movie Makers,1
+198,The Family Star,Vijay Deverakonda,Mrunal Thakur,Parasuram,Dil Raju,2024-04-05,Telugu,Family Drama,160,50,55,5.2,Amazon Prime Video,NULL,0,Gopi Sundar,Sri Venkateswara Creations,1
+199,Sindhooram,Ravi Teja,Sanghavi,Krishna Vamsi,Mohan Mullapudi,1997-09-12,Telugu,Action Drama,150,2,4,7.6,Aha,NULL,0,Sri Kommineni,Andhra Talkies,1
+200,Nee Kosam,Ravi Teja,Maheswari,Sreenu Vaitla,Ramoji Rao,1999-12-03,Telugu,Romance Drama,145,3,6,7,Aha,NULL,0,R. P. Patnaik,Ushakiran Movies,1
+201,Itlu Sravani Subramanyam,Ravi Teja,Tanu Roy,Puri Jagannadh,V. V. Satyanarayana,2001-09-14,Telugu,Romance Drama,146,3,8,7.4,Sun NXT,NULL,0,Chakri,Sri Sai Films,1
+202,Avunu Valliddaru Ishtapaddaru,Ravi Teja,Kalyani,Vamsy,Valluripalli Ramesh,2002-08-02,Telugu,Romantic Comedy,150,3,10,7.5,Aha,NULL,0,Chakri,Maharshi Cinema,1
+203,Idiot,Ravi Teja,Rakshita,Puri Jagannadh,Puri Jagannadh,2002-08-22,Telugu,Action Romance,155,4,15,7.8,Sun NXT,NULL,0,Chakri,Vaishno Academy,1
+204,Khadgam,Ravi Teja,Kim Sharma,Krishna Vamsi,Sunkara Madhu Murali,2002-11-29,Telugu,Patriotic Drama,172,5,18,8.2,Sun NXT,NULL,0,Devi Sri Prasad,Sridevi Movies,1
+205,Amma Nanna O Tamila Ammayi,Ravi Teja,Asin,Puri Jagannadh,Puri Jagannadh,2003-04-19,Telugu,Sports Drama,154,6,20,7.8,Sun NXT,NULL,0,Chakri,Vaishno Academy,1
+206,Veede,Ravi Teja,Reema Sen,Ravi Raja Pinisetty,Prakash Raj,2003-10-31,Telugu,Action Drama,150,8,12,5.5,Aha,NULL,0,Chakri,Duet Movies,0
+207,Venky,Ravi Teja,Sneha,Sreenu Vaitla,Atluri Purnachandra Rao,2004-03-26,Telugu,Comedy Thriller,168,8,30,7.6,Sun NXT,NULL,0,Devi Sri Prasad,Lakshmi Productions,1
+208,Naa Autograph,Ravi Teja,Bhumika Chawla,S. Gopal Reddy,Bellamkonda Suresh,2004-08-11,Telugu,Drama,170,7,25,8,Sun NXT,NULL,0,M. M. Keeravani,Sri Sai Ganesh Productions,1
+209,Bhadra,Ravi Teja,Meera Jasmine,Boyapati Srinu,Dil Raju,2005-05-12,Telugu,Action Drama,150,8,35,7.8,Amazon Prime Video,NULL,0,Devi Sri Prasad,Sri Venkateswara Creations,1
+210,Vikramarkudu,Ravi Teja,Anushka Shetty,S. S. Rajamouli,M. L. Kumar Chowdary,2006-06-23,Telugu,Action Comedy,161,11,40,7.7,Sun NXT,NULL,0,M. M. Keeravani,Sri Keerthi Films,1
+211,Dubai Seenu,Ravi Teja,Nayanthara,Sreenu Vaitla,D. V. V. Danayya,2007-06-07,Telugu,Comedy Action,150,15,35,7.1,Amazon Prime Video,NULL,0,Mani Sharma,Universal Media,1
+212,Krishna,Ravi Teja,Trisha,V. V. Vinayak,Dil Raju,2008-01-11,Telugu,Action Comedy,154,18,40,6.8,Sun NXT,NULL,0,Chakri,Sri Venkateswara Creations,1
+213,Neninthe,Ravi Teja,Siya Gautham,Puri Jagannadh,D. V. V. Danayya,2008-12-18,Telugu,Drama,180,12,15,7.5,Aha,NULL,0,Chakri,Universal Media,1
+214,Kick,Ravi Teja,Ileana D'Cruz,Surender Reddy,R. R. Venkat,2009-05-08,Telugu,Action Comedy,162,20,60,8.1,Netflix,Kick,0,S. Thaman,R. R. Movie Makers,1
+215,Don Seenu,Ravi Teja,Shriya Saran,Gopichand Malineni,R. R. Venkat,2010-08-06,Telugu,Action Comedy,166,22,50,6.6,Amazon Prime Video,NULL,0,Mani Sharma,R. R. Movie Makers,1
+216,Mirapakaay,Ravi Teja,Richa Gangopadhyay,Harish Shankar,Ramesh Puppala,2011-01-12,Telugu,Action Comedy,160,25,55,7.2,Sun NXT,NULL,0,S. Thaman,Yellow Flowers,1
+217,Balupu,Ravi Teja,Shruti Haasan,Gopichand Malineni,PVP Prasad,2013-06-28,Telugu,Action Comedy,163,30,85,6.8,Amazon Prime Video,NULL,0,S. Thaman,PVP Cinema,1
+218,Power,Ravi Teja,Hansika Motwani,K. S. Ravindra,Rockline Venkatesh,2014-09-12,Telugu,Action Comedy,154,35,65,6.2,Netflix,NULL,0,S. Thaman,Rockline Entertainments,1
+219,Kick 2,Ravi Teja,Rakul Preet Singh,Surender Reddy,Nandamuri Kalyan Ram,2015-08-21,Telugu,Action Comedy,165,40,50,5.4,Netflix,Kick,0,S. Thaman,NTR Arts,0
+220,Bengal Tiger,Ravi Teja,Tamannaah Bhatia,Sampath Nandi,K. K. Radha Mohan,2015-12-10,Telugu,Action Comedy,151,40,75,5.7,Amazon Prime Video,NULL,0,Bheems Ceciroleo,Sri Satya Sai Arts,1
+221,Raja the Great,Ravi Teja,Mehreen Pirzada,Anil Ravipudi,Dil Raju,2017-10-18,Telugu,Action Comedy,149,30,70,6.8,Netflix,NULL,0,Sai Karthik,Sri Venkateswara Creations,1
+222,Disco Raja,Ravi Teja,Nabha Natesh,Vi Anand,Ram Talluri,2020-01-24,Telugu,Sci-Fi Action,150,40,32,6,Sun NXT,NULL,0,S. Thaman,SRT Entertainments,0
+223,Krack,Ravi Teja,Shruti Haasan,Gopichand Malineni,B. Madhu,2021-01-09,Telugu,Action Thriller,154,35,70,7.3,Aha,NULL,0,S. Thaman,Saraswathi Films Division,1
+224,Khiladi,Ravi Teja,Dimple Hayathi,Ramesh Varma,Satyanarayana Koneru,2022-02-11,Telugu,Action Thriller,155,60,35,5.2,Disney+ Hotstar,NULL,0,Devi Sri Prasad,A Studios,0
+225,Dhamaka,Ravi Teja,Sreeleela,Trinadha Rao Nakkina,Abhishek Agarwal,2022-12-23,Telugu,Action Comedy,140,40,115,6.8,Netflix,NULL,0,Bheems Ceciroleo,People Media Factory,1
+226,Waltair Veerayya,Ravi Teja,Catherine Tresa,K. S. Ravindra,Naveen Yerneni,2023-01-13,Telugu,Action Drama,160,140,235,7,Netflix,NULL,0,Devi Sri Prasad,Mythri Movie Makers,1
+227,Ravanasura,Ravi Teja,Megha Akash,Sudheer Varma,Abhishek Nama,2023-04-07,Telugu,Crime Thriller,142,50,30,6,Amazon Prime Video,NULL,0,Harshavardhan Rameshwar,Abhishek Pictures,0
+228,Tiger Nageswara Rao,Ravi Teja,Nupur Sanon,Vamsee,Abhishek Agarwal,2023-10-20,Telugu,Biographical Action,181,80,65,6.7,Amazon Prime Video,NULL,1,G. V. Prakash Kumar,Abhishek Agarwal Arts,1
+229,Eagle,Ravi Teja,Anupama Parameswaran,Karthik Gattamneni,T. G. Vishwa Prasad,2024-02-09,Telugu,Action Thriller,156,85,95,7,Amazon Prime Video,NULL,1,Davzand,People Media Factory,1
+230,Mr. Bachchan,Ravi Teja,Bhagyashri Borse,Harish Shankar,T. G. Vishwa Prasad,2024-08-15,Telugu,Action Drama,160,70,60,5.8,Netflix,NULL,0,Mickey J Meyer,People Media Factory,0
+231,Mana Voori Pandavulu,Chiranjeevi,Geetha,Bapu,Jaya Krishna,1978-11-09,Telugu,Drama,150,0.2,0.8,8,YouTube,NULL,0,K. V. Mahadevan,Jayakrishna Movies,1
+232,Pranam Khareedu,Chiranjeevi,Reshma Roy,K. Vasu,Kranthi Kumar,1978-09-22,Telugu,Drama,145,0.18,0.75,7.5,YouTube,NULL,0,Chakravarthy,Kranthi Chitra,1
+233,Punnami Naagu,Chiranjeevi,Menaka,Rajasekhar,AVM Productions,1980-06-13,Telugu,Fantasy,135,0.3,1.2,7.4,YouTube,NULL,0,Chakravarthy,AVM Productions,1
+234,Nyayam Kavali,Chiranjeevi,Radhika,A. Kodandarami Reddy,Kranthi Kumar,1981-05-15,Telugu,Courtroom Drama,145,0.25,1.1,7.8,YouTube,NULL,0,Chakravarthy,Kranthi Chitra,1
+235,Chattaniki Kallu Levu,Chiranjeevi,Madhavi,S. A. Chandrasekhar,K. C. Sekhar Babu,1981-10-30,Telugu,Action,150,0.3,1.3,7.4,YouTube,NULL,0,Krishna Chakra,Geetha Arts,1
+236,Subhalekha,Chiranjeevi,Sumalatha,K. Viswanath,Allu Aravind,1982-06-11,Telugu,Drama,145,0.35,1.5,8.3,YouTube,NULL,0,K. V. Mahadevan,Prasanthi Creations,1
+237,Intlo Ramayya Veedilo Krishnayya,Chiranjeevi,Madhavi,Kodi Ramakrishna,K. Raghava,1982-04-22,Telugu,Family Drama,150,0.35,1.6,7.9,YouTube,NULL,0,J. V. Raghavulu,Pratap Art Productions,1
+238,Patnam Vachina Pativrathalu,Chiranjeevi,Radhika,Mouli,K. Raghava,1982-12-31,Telugu,Comedy Drama,145,0.35,1.4,7.2,YouTube,NULL,0,Chakravarthy,Pratap Art Productions,1
+239,Khaidi,Chiranjeevi,Madhavi,A. Kodandarami Reddy,K. Dhanunjaya Reddy,1983-10-28,Telugu,Action,157,0.5,6,8.6,Aha,Khaidi,0,Chakravarthy,Samyuktha Movies,1
+240,Abhilasha,Chiranjeevi,Radhika,A. Kodandarami Reddy,K. S. Rama Rao,1983-03-11,Telugu,Thriller,140,0.45,3.5,8.2,Aha,NULL,0,Ilaiyaraaja,Creative Commercials,1
+241,Maga Maharaju,Chiranjeevi,Suhasini,Vijaya Bapineedu,Maganti Ravindranath Chowdary,1983-11-15,Telugu,Action Drama,150,0.5,2.5,7.5,YouTube,NULL,0,Chakravarthy,Shyam Prasad Arts,1
+242,Challenge,Chiranjeevi,Suhasini,A. Kodandarami Reddy,K. S. Rama Rao,1984-08-09,Telugu,Drama,153,0.6,4.5,8.4,Aha,NULL,0,Ilaiyaraaja,Creative Commercials,1
+243,Goonda,Chiranjeevi,Radha,A. Kodandarami Reddy,Midde Rama Rao,1984-10-23,Telugu,Action,148,0.6,3.8,7.6,YouTube,NULL,0,Chakravarthy,Sri Rajalakshmi Art Pictures,1
+244,Donga,Chiranjeevi,Radha,Kodandarami Reddy,Midde Rama Rao,1985-03-14,Telugu,Action,150,0.7,5.2,8.1,YouTube,NULL,0,Chakravarthy,Sri Rajyalakshmi Arts,1
+245,Vijetha,Chiranjeevi,Bhanupriya,A. Kodandarami Reddy,Allu Aravind,1985-10-23,Telugu,Drama,145,0.6,3.9,7.8,YouTube,NULL,0,K. Chakravarthy,Geetha Arts,1
+246,Adavi Donga,Chiranjeevi,Radha,K. Raghavendra Rao,K. Narasimha Rao,1985-09-19,Telugu,Action,155,0.8,6,8.2,YouTube,NULL,0,Chakravarthy,Sri Sai Arts,1
+247,Rakshasudu,Chiranjeevi,Radha,A. Kodandarami Reddy,K. S. Rama Rao,1986-10-02,Telugu,Action Thriller,150,0.9,7.2,8.4,Aha,NULL,0,Ilaiyaraaja,Creative Commercials,1
+248,Chantabbai,Chiranjeevi,Suhasini,Jandhyala,K. S. Rama Rao,1986-08-22,Telugu,Comedy,140,0.5,4,7.9,YouTube,NULL,0,K. Chakravarthy,Creative Commercials,1
+249,Kondaveeti Raja,Chiranjeevi,Vijayashanti,K. Raghavendra Rao,Devi Vara Prasad,1986-02-07,Telugu,Action,150,0.8,6.5,8,YouTube,NULL,0,Chakravarthy,Sri Sai Arts,1
+250,Pasivadi Pranam,Chiranjeevi,Vijaya Shanti,A. Kodandarami Reddy,Allu Aravind,1987-07-23,Telugu,Action Drama,150,1,8.5,8.5,Aha,NULL,0,Ilaiyaraaja,Geetha Arts,1
+251,Swayamkrushi,Chiranjeevi,Vijayashanti,K. Viswanath,Edida Nageswara Rao,1987-09-03,Telugu,Drama,160,0.9,5.5,8.6,YouTube,NULL,0,Ramesh Naidu,Poornodaya Movies,1
+252,Donga Mogudu,Chiranjeevi,Bhanupriya,A. Kodandarami Reddy,D. Rama Naidu,1987-01-09,Telugu,Action Comedy,155,1,7,8.1,YouTube,NULL,0,Chakravarthy,Suresh Productions,1
+253,Yamudiki Mogudu,Chiranjeevi,Radha,Ravi Raja Pinisetty,K. S. Rama Rao,1988-04-29,Telugu,Fantasy Comedy,160,1.1,9,8.3,YouTube,NULL,0,Ilaiyaraaja,Creative Commercials,1
+254,Khaidi No.786,Chiranjeevi,Bhanupriya,Vijaya Bapineedu,M. Tirupathi Reddy,1988-06-10,Telugu,Action,150,1.2,10,8.4,Aha,Khaidi,0,Chakravarthy,Padmalaya Studios,1
+255,Rudraveena,Chiranjeevi,Sobhana,K. Balachander,Nagendra Babu,1988-03-04,Telugu,Musical Drama,170,0.9,4.5,8.7,YouTube,NULL,0,Ilaiyaraaja,Anjana Productions,1
+256,Attaku Yamudu Ammayiki Mogudu,Chiranjeevi,Vijaya Shanti,A. Kodandarami Reddy,Allu Aravind,1989-01-13,Telugu,Comedy Action,160,1.2,11,8.5,Aha,NULL,0,Chakravarthy,Geetha Arts,1
+257,Donga,Chiranjeevi,Radha,Kodandarami Reddy,Midde Rama Rao,1985-03-14,Telugu,Action,150,0.7,5.2,8.1,YouTube,NULL,0,Chakravarthy,Sri Rajyalakshmi Arts,1
+258,Vijetha,Chiranjeevi,Bhanupriya,A. Kodandarami Reddy,Allu Aravind,1985-10-23,Telugu,Drama,145,0.6,3.9,7.8,YouTube,NULL,0,K. Chakravarthy,Geetha Arts,1
+259,Adavi Donga,Chiranjeevi,Radha,K. Raghavendra Rao,K. Narasimha Rao,1985-09-19,Telugu,Action,155,0.8,6,8.2,YouTube,NULL,0,Chakravarthy,Sri Sai Arts,1
+260,Rakshasudu,Chiranjeevi,Radha,A. Kodandarami Reddy,K. S. Rama Rao,1986-10-02,Telugu,Action Thriller,150,0.9,7.2,8.4,Aha,NULL,0,Ilaiyaraaja,Creative Commercials,1
+261,Chantabbai,Chiranjeevi,Suhasini,Jandhyala,K. S. Rama Rao,1986-08-22,Telugu,Comedy,140,0.5,4,7.9,YouTube,NULL,0,K. Chakravarthy,Creative Commercials,1
+262,Kondaveeti Raja,Chiranjeevi,Vijayashanti,K. Raghavendra Rao,Devi Vara Prasad,1986-02-07,Telugu,Action,150,0.8,6.5,8,YouTube,NULL,0,Chakravarthy,Sri Sai Arts,1
+263,Pasivadi Pranam,Chiranjeevi,Vijaya Shanti,A. Kodandarami Reddy,Allu Aravind,1987-07-23,Telugu,Action Drama,150,1,8.5,8.5,Aha,NULL,0,Ilaiyaraaja,Geetha Arts,1
+264,Swayamkrushi,Chiranjeevi,Vijayashanti,K. Viswanath,Edida Nageswara Rao,1987-09-03,Telugu,Drama,160,0.9,5.5,8.6,YouTube,NULL,0,Ramesh Naidu,Poornodaya Movies,1
+265,Donga Mogudu,Chiranjeevi,Bhanupriya,A. Kodandarami Reddy,D. Rama Naidu,1987-01-09,Telugu,Action Comedy,155,1,7,8.1,YouTube,NULL,0,Chakravarthy,Suresh Productions,1
+266,Yamudiki Mogudu,Chiranjeevi,Radha,Ravi Raja Pinisetty,K. S. Rama Rao,1988-04-29,Telugu,Fantasy Comedy,160,1.1,9,8.3,YouTube,NULL,0,Ilaiyaraaja,Creative Commercials,1
+267,Khaidi No.786,Chiranjeevi,Bhanupriya,Vijaya Bapineedu,M. Tirupathi Reddy,1988-06-10,Telugu,Action,150,1.2,10,8.4,Aha,Khaidi,0,Chakravarthy,Padmalaya Studios,1
+268,Rudraveena,Chiranjeevi,Sobhana,K. Balachander,Nagendra Babu,1988-03-04,Telugu,Musical Drama,170,0.9,4.5,8.7,YouTube,NULL,0,Ilaiyaraaja,Anjana Productions,1
+269,Attaku Yamudu Ammayiki Mogudu,Chiranjeevi,Vijaya Shanti,A. Kodandarami Reddy,Allu Aravind,1989-01-13,Telugu,Comedy Action,160,1.2,11,8.5,Aha,NULL,0,Chakravarthy,Geetha Arts,1
+270,State Rowdy,Chiranjeevi,Radha,B. Gopal,K. S. Rama Rao,1989-03-23,Telugu,Action,150,1.2,9.5,8.2,YouTube,NULL,0,Chakravarthy,Creative Commercials,1
+271,Jagadeka Veerudu Athiloka Sundari,Chiranjeevi,Sridevi,K. Raghavendra Rao,Aswani Dutt,1990-05-09,Telugu,Fantasy,165,2,15,9,Aha,NULL,1,Ilaiyaraaja,Vyjayanthi Movies,1
+272,Kondaveeti Donga,Chiranjeevi,Radha,A. Kodandarami Reddy,Allu Aravind,1990-03-09,Telugu,Action,160,1.8,14,8.6,YouTube,NULL,0,Ilaiyaraaja,Geetha Arts,1
+273,Gang Leader,Chiranjeevi,Vijayashanti,Vijaya Bapineedu,M. Tirupathi Reddy,1991-09-09,Telugu,Action Drama,155,2,16,8.8,Aha,NULL,0,Bappi Lahiri,Padmalaya Studios,1
+274,Rowdy Alludu,Chiranjeevi,Shobana,K. Raghavendra Rao,K. S. Rama Rao,1991-10-18,Telugu,Comedy Action,150,1.8,13,8.3,YouTube,NULL,0,Ilaiyaraaja,Creative Commercials,1
+275,Gharana Mogudu,Chiranjeevi,Nagma,K. Raghavendra Rao,Devi Vara Prasad,1992-04-09,Telugu,Action Comedy,160,2.2,18,8.9,Aha,NULL,1,M. M. Keeravani,Devi Film Productions,1
+276,Muta Mesthri,Chiranjeevi,Meena,A. Kodandarami Reddy,K. S. Rama Rao,1993-01-17,Telugu,Political Drama,155,2,14,8.5,YouTube,NULL,0,Raj-Koti,Creative Commercials,1
+277,Alluda Majaka,Chiranjeevi,Rambha,E. V. V. Satyanarayana,Devi Vara Prasad,1995-02-25,Telugu,Comedy,150,2.2,12,8,YouTube,NULL,0,Koti,Devi Film Productions,1
+278,Hitler,Chiranjeevi,Rambha,Muthyala Subbaiah,K. S. Rama Rao,1997-01-03,Telugu,Family Drama,155,2,13,8.6,Aha,NULL,0,Koti,Creative Commercials,1
+279,Master,Chiranjeevi,Sakshi Shivanand,Suresh Krissna,Allu Aravind,1997-09-02,Telugu,Action,150,2.3,14,8.2,YouTube,NULL,0,Deva,Geetha Arts,1
+280,Bavagaru Bagunnara?,Chiranjeevi,Rambha,Jayanth C. Paranjee,Nagendra Babu,1998-04-09,Telugu,Comedy,155,2.4,15,8.4,Aha,NULL,0,Mani Sharma,Anjana Productions,1
+281,Choodalani Vundi,Chiranjeevi,Soundarya,Gunasekhar,Ashwini Dutt,1998-09-10,Telugu,Action Drama,160,2.5,16,8.7,Aha,NULL,1,Mani Sharma,Vyjayanthi Movies,1
+282,Sneham Kosam,Chiranjeevi,Meena,K. S. Ravi Kumar,K. S. Rama Rao,1999-01-01,Telugu,Drama,150,2.2,12,8.1,YouTube,NULL,0,S. A. Rajkumar,Creative Commercials,1
+283,Annayya,Chiranjeevi,Soundarya,Muthyala Subbaiah,K. S. Rama Rao,2000-01-07,Telugu,Family Drama,160,3,18,8.3,YouTube,NULL,0,Mani Sharma,Creative Commercials,1
+284,Daddy,Chiranjeevi,Simran,Suresh Krissna,Allu Aravind,2001-10-04,Telugu,Drama,165,3.5,20,8.5,Aha,NULL,0,S. A. Rajkumar,Geetha Arts,1
+285,Indra,Chiranjeevi,Sonali Bendre,B. Gopal,C. Aswini Dutt,2002-07-24,Telugu,Action Drama,175,5,30,9,Aha,NULL,1,Mani Sharma,Vyjayanthi Movies,1
+286,Tagore,Chiranjeevi,Jyothika,V. V. Vinayak,B. Madhu,2003-09-24,Telugu,Action Drama,170,4.5,28,8.9,Aha,NULL,1,Mani Sharma,Leo Productions,1
+287,Shankar Dada M.B.B.S.,Chiranjeevi,Sonali Bendre,Jayanth C. Paranjee,Akkineni Ravi,2004-10-15,Telugu,Comedy Drama,165,4,25,8.8,Aha,Shankar Dada,0,Devi Sri Prasad,Geetha Arts,1
+288,Stalin,Chiranjeevi,Trisha,A. R. Murugadoss,Nagendra Babu,2006-09-20,Telugu,Action Drama,170,5,22,8.2,Aha,NULL,0,Mani Sharma,Anjana Productions,1
+289,Khaidi No. 150,Chiranjeevi,Kajal Aggarwal,V. V. Vinayak,Ram Charan,2017-01-11,Telugu,Action,150,25,150,8,Netflix,Khaidi,1,Devi Sri Prasad,Konidela Production,1
+290,Sye Raa Narasimha Reddy,Chiranjeevi,Nayanthara,Surender Reddy,Ram Charan,2019-10-02,Telugu,Historical,170,200,240,8.7,Amazon Prime,NULL,1,Amit Trivedi,Konidela Production,1
+291,Godfather,Chiranjeevi,Nayanthara,Mohan Raja,Ram Charan,2022-10-05,Telugu,Political Thriller,160,90,110,7.5,Netflix,NULL,1,S. Thaman,Konidela Production,1
+292,Waltair Veerayya,Chiranjeevi,Shruti Haasan,Bobby Kolli,Mythri Movie Makers,2023-01-13,Telugu,Action,165,120,230,8.1,Netflix,NULL,1,Devi Sri Prasad,Mythri Movie Makers,1
+293,Mana Shankara Vara Prasad Garu,Chiranjeevi,TBD,TBD,TBD,2026-01-01,Telugu,Action Drama,160,NULL,NULL,NULL,NULL,NULL,1,TBD,TBD,TBD
+294,Kaliyuga Pandavulu,Venkatesh,Khushbu,K. Raghavendra Rao,D. Rama Naidu,1986-08-14,Telugu,Drama,145,0.5,3.2,7.8,YouTube,NULL,0,Chakravarthy,Suresh Productions,1
+295,Brahma Rudrulu,Venkatesh,Rajani,K. Murali Mohan Rao,D. Rama Naidu,1986-11-14,Telugu,Action,150,0.6,3.5,7.5,YouTube,NULL,0,Chakravarthy,Suresh Productions,1
+296,Ajeyudu,Venkatesh,Shobana,G. Ram Mohan Rao,K. Ashok Kumar,1987-07-24,Telugu,Action,148,0.7,4,7.6,YouTube,NULL,0,Chakravarthy,Lakshmi Films,1
+297,Srinivasa Kalyanam,Venkatesh,Bhanupriya,Kodi Ramakrishna,K. Murari,1987-09-25,Telugu,Family Drama,155,0.8,5.2,7.9,YouTube,NULL,0,K. V. Mahadevan,Yuva Chitra Arts,1
+298,Prema,Venkatesh,Revathi,Suresh Krissna,D. Rama Naidu,1989-05-12,Telugu,Romance,150,1,7,8.3,Aha,NULL,0,Ilaiyaraaja,Suresh Productions,1
+299,Bobbili Raja,Venkatesh,Divya Bharti,B. Gopal,D. Rama Naidu,1990-09-14,Telugu,Action Romance,160,1.5,12,8.6,Aha,NULL,0,Ilaiyaraaja,Suresh Productions,1
+300,Coolie No.1,Venkatesh,Tabu,K. Raghavendra Rao,D. Rama Naidu,1991-07-12,Telugu,Comedy,150,1.2,10,8.2,YouTube,NULL,0,Ilaiyaraaja,Suresh Productions,1
+301,Sundarakanda,Venkatesh,Meena,K. Raghavendra Rao,D. Rama Naidu,1992-10-02,Telugu,Drama,155,1.3,11,8.1,YouTube,NULL,0,M. M. Keeravani,Suresh Productions,1
+302,Chanti,Venkatesh,Meena,Ravi Raja Pinisetty,K. Nageswara Rao,1992-12-10,Telugu,Drama,150,1.4,13,8.7,Aha,NULL,0,Ilaiyaraaja,Sri Sai Arts,1
+303,Abbaigaru,Venkatesh,Meena,E. V. V. Satyanarayana,D. Rama Naidu,1993-09-30,Telugu,Comedy,150,1.5,10.5,8,YouTube,NULL,0,Raj-Koti,Suresh Productions,1
+304,Muddula Priyudu,Venkatesh,Rambha,K. Raghavendra Rao,K. S. Rama Rao,1994-06-10,Telugu,Romance,155,1.6,11,7.8,YouTube,NULL,0,M. M. Keeravani,Creative Commercials,1
+305,Dharma Chakram,Venkatesh,Ramya Krishna,Suresh Krissna,D. Rama Naidu,1996-01-13,Telugu,Action,160,2,12,8.1,Aha,NULL,0,M. M. Keeravani,Suresh Productions,1
+306,Pavithra Bandham,Venkatesh,Soundarya,Muthyala Subbaiah,C. Venkataraju,1996-09-12,Telugu,Family Drama,155,2.1,14,8.5,YouTube,NULL,0,M. M. Keeravani,Sri Devi Movies,1
+307,Premichukondam Raa,Venkatesh,Anjala Zaveri,Jayanth C. Paranjee,D. Rama Naidu,1997-05-09,Telugu,Romance,150,2.2,15,8.3,YouTube,NULL,0,M. M. Keeravani,Suresh Productions,1
+308,Ganesh,Venkatesh,Rambha,Tirupathi Swamy,D. Rama Naidu,1998-06-19,Telugu,Drama,155,2.3,16,8.2,Aha,NULL,0,Mani Sharma,Suresh Productions,1
+309,Raja,Venkatesh,Soundarya,Muppalaneni Shiva,D. Rama Naidu,1999-08-14,Telugu,Romance,150,2.5,18,8.4,Aha,NULL,0,S. A. Rajkumar,Suresh Productions,1
+310,Kalisundam Raa,Venkatesh,Simran,Uday Shankar,D. Rama Naidu,2000-01-14,Telugu,Family Drama,160,3,22,8.8,Aha,NULL,0,S. A. Rajkumar,Suresh Productions,1
+311,Nuvvu Naaku Nachav,Venkatesh,Aarthi Agarwal,Vijaya Bhaskar,Sravanthi Ravi Kishore,2001-09-06,Telugu,Comedy,165,3.2,25,8.9,YouTube,NULL,0,Koti,Sravanthi Movies,1
+312,Drushyam,Venkatesh,Meena,Jeethu Joseph,D. Suresh Babu,2014-07-11,Telugu,Thriller,160,10,75,8.7,Amazon Prime,NULL,0,Sharreth,Suresh Productions,1
+313,F2,Venkatesh,Tamannaah,Anil Ravipudi,Dil Raju,2019-01-12,Telugu,Comedy,155,25,140,8.5,Netflix,NULL,0,Devi Sri Prasad,Sri Venkateswara Creations,1
+314,Vikram,Nagarjuna,Khushbu,Suresh Krissna,Annapurna Studios,1986-05-23,Telugu,Action,150,0.6,3.5,7.6,YouTube,NULL,0,Chakravarthy,Annapurna Studios,1
+315,Majnu,Nagarjuna,Rajani,Dasari Narayana Rao,D. Rama Naidu,1987-01-14,Telugu,Romance,145,0.7,4,7.8,YouTube,NULL,0,Laxmikant-Pyarelal,Suresh Productions,1
+316,Geethanjali,Nagarjuna,Girija Shettar,Mani Ratnam,C. Praveen Kumar,1989-05-19,Telugu,Romance,150,1.2,10,9,Aha,NULL,0,Ilaiyaraaja,Annapurna Studios,1
+317,Shiva,Nagarjuna,Amala,Ram Gopal Varma,Annapurna Studios,1989-10-05,Telugu,Action,160,1.5,15,8.8,Aha,Shiva,0,Ilaiyaraaja,Annapurna Studios,1
+318,Killer,Nagarjuna,Nagma,Fazil,Annapurna Studios,1991-02-14,Telugu,Action,150,1.6,14,8.3,YouTube,NULL,0,Ilaiyaraaja,Annapurna Studios,1
+319,Antham,Nagarjuna,Urmila,Ram Gopal Varma,Annapurna Studios,1992-07-09,Telugu,Thriller,155,1.8,16,8.4,YouTube,NULL,0,R. D. Burman,Annapurna Studios,1
+320,Khuda Gawah (Telugu Dub),Nagarjuna,Sridevi,Mukul Anand,N/A,1992-08-07,Telugu,Action,170,2,20,8.6,YouTube,NULL,1,Laxmikant-Pyarelal,N/A,1
+321,Hello Brother,Nagarjuna,Ramya Krishna,E. V. V. Satyanarayana,Annapurna Studios,1994-04-20,Telugu,Comedy,150,2,18,8.5,Aha,NULL,0,Raj-Koti,Annapurna Studios,1
+322,Criminal,Nagarjuna,Manisha Koirala,Mahesh Bhatt,Annapurna Studios,1995-07-21,Telugu,Thriller,155,2.5,20,8.3,YouTube,NULL,0,M. M. Keeravani,Annapurna Studios,1
+323,Annamayya,Nagarjuna,Ramya Krishna,K. Raghavendra Rao,K. Raghavendra Rao,1997-05-22,Telugu,Devotional,160,3,25,9.1,Aha,NULL,0,M. M. Keeravani,Annapurna Studios,1
+324,Mass,Nagarjuna,Jyothika,Raghava Lawrence,Annapurna Studios,2004-12-23,Telugu,Action,155,5,35,8,YouTube,NULL,0,Devi Sri Prasad,Annapurna Studios,1
+325,King,Nagarjuna,Trisha,Sreenu Vaitla,Annapurna Studios,2008-12-18,Telugu,Action Comedy,160,10,55,8.1,Aha,NULL,0,Devi Sri Prasad,Annapurna Studios,1
+326,Manam,Nagarjuna,Shriya Saran,Vikram Kumar,Annapurna Studios,2014-05-23,Telugu,Fantasy,160,20,120,9,Amazon Prime,NULL,0,Anup Rubens,Annapurna Studios,1
+327,Soggade Chinni Nayana,Nagarjuna,Ramya Krishna,Kalyan Krishna,Annapurna Studios,2016-01-15,Telugu,Fantasy,155,25,130,8.4,Aha,NULL,0,Anup Rubens,Annapurna Studios,1
+328,Bangarraju,Nagarjuna,Naga Chaitanya,Kalyan Krishna,Annapurna Studios,2022-01-14,Telugu,Fantasy,160,40,180,8,Netflix,Bangarraju,1,Anup Rubens,Annapurna Studios,1
+329,The Ghost,Nagarjuna,Sonal Chauhan,Praveen Sattaru,Annapurna Studios,2022-10-05,Telugu,Action Thriller,155,45,90,7.2,Netflix,NULL,0,Bharatt-Saurabh,Annapurna Studios,0
+330,Ninne Pelladatha,Nagarjuna,Tabu,Krishna Vamsi,Annapurna Studios,1996-10-04,Telugu,Romance,150,2.2,18,8.6,YouTube,NULL,0,Sandeep Chowta,Annapurna Studios,1
+331,Oopiri,Nagarjuna,Tamannaah,Vamsi Paidipally,Prasad V Potluri,2016-03-25,Telugu,Drama,160,30,140,8.7,Netflix,NULL,0,Gopi Sunder,PVP Cinema,1
+332,Officer,Nagarjuna,Myra Sareen,Ram Gopal Varma,Annapurna Studios,2018-06-01,Telugu,Action,150,20,60,6.8,YouTube,NULL,0,Ravi Shankar,Annapurna Studios,0
+333,Wild Dog,Nagarjuna,Dia Mirza,Ashishor Solomon,Matinee Entertainment,2021-04-02,Telugu,Action Thriller,155,35,85,7.5,Netflix,NULL,1,S. Thaman,Matinee Entertainment,1
+334,Samarasimha Reddy,Balakrishna,Simran,B. Gopal,Chengala Venkat Rao,1999-01-13,Telugu,Action,160,4,25,8.6,YouTube,NULL,0,Mani Sharma,Sri Satya Sai Arts,1
+335,Narasimha Naidu,Balakrishna,Simran,B. Gopal,M. Venkata Ramana,2001-01-11,Telugu,Action,165,5,30,8.8,Aha,NULL,0,Mani Sharma,Sri Satya Sai Arts,1
+336,Lakshmi Narasimha,Balakrishna,Asin,Jayanth C. Paranjee,Bellamkonda Suresh,2004-01-14,Telugu,Action,160,6,32,8.2,YouTube,NULL,0,Mani Sharma,Sri Lakshmi Narasimha Arts,1
+337,Simha,Balakrishna,Nayantara,Boyapati Srinu,Paruchuri Prasad,2010-04-30,Telugu,Action,165,10,60,8.5,Aha,NULL,0,Chakri,United Movies,1
+338,Legend,Balakrishna,Radhika Apte,Boyapati Srinu,Ram Achanta,2014-03-28,Telugu,Action,170,20,100,8.7,Netflix,NULL,1,Devi Sri Prasad,14 Reels Entertainment,1
+339,Gautamiputra Satakarni,Balakrishna,Shriya Saran,Krish Jagarlamudi,Sai Korrapati,2017-01-12,Telugu,Historical,160,60,150,8.6,Amazon Prime,NULL,1,Chirantan Bhatt,First Frame Entertainment,1
+340,Akhanda,Balakrishna,Pragya Jaiswal,Boyapati Srinu,Miryala Ravinder Reddy,2021-12-02,Telugu,Action,165,70,200,8.3,Disney+ Hotstar,NULL,1,S. Thaman,Dwaraka Creations,1
+341,Veera Simha Reddy,Balakrishna,Shruti Haasan,Gopichand Malineni,Naveen Yerneni,2023-01-12,Telugu,Action,160,100,240,8.2,Netflix,NULL,1,S. Thaman,Mythri Movie Makers,1
+342,Bhagavanth Kesari,Balakrishna,Sreeleela,Anil Ravipudi,Shine Screens,2023-10-19,Telugu,Action Drama,165,110,220,8.1,Amazon Prime,NULL,1,S. Thaman,Shine Screens,1
+343,NBK109,Balakrishna,TBD,Bobby Kolli,Mythri Movie Makers,2026-01-01,Telugu,Action,170,NULL,NULL,NULL,NULL,NULL,1,S. Thaman,Mythri Movie Makers,Upcoming

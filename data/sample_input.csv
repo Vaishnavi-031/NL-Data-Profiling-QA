@@ -1,0 +1,9 @@
+id,name,age,salary,bonus,department
+1,Alice,25,50000,5000,HR
+2,Bob,30,60000,6000,Engineering
+3,Charlie,35,70000,7000,Marketing
+3,Charlie,35,70000,7000,Marketing
+5,David,,80000,8000,Engineering
+6,,45,90000,9000,Sales
+7,Frank,28,55000,5500,Engineering
+8,Grace,,65000,6500,Marketing
