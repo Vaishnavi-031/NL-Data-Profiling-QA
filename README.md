@@ -120,5 +120,5 @@ id,name,age,salary,bonus,department
 
 ## Demo Video
 
-The demo video link is available in:
-demo/demo_video_link.txt
+Loom Demo Video:
+https://www.loom.com/share/91ef824c51a24307b808d410d9be4ea9
