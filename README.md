@@ -1,8 +1,10 @@
-# Chat with Data Profiling Reports using AI
+# NL Data Profiling Q&A
+
+An AI-powered system for querying ydata-profiling reports using natural language.
 
 For team details and responsibilities, refer to `TEAM_INFO.md`.
 
-This prototype enables users to upload CSV datasets, automatically generate detailed profiling reports, and query these reports using natural language. It solves the issue of ydata-profiling reports being static and difficult to scan by providing an interactive chat interface powered by Gemini.
+This prototype enables users to upload CSV datasets, automatically generate detailed profiling reports, and query these reports using natural language. It addresses the limitation of static ydata-profiling reports by providing an interactive chat interface powered by Gemini.
 
 ## Problem Statement
 `ydata-profiling` generates comprehensive static data quality reports (as HTML/JSON), but navigating these reports to answer specific questions can be tedious. Users should be able to upload a CSV file and query the report directly in natural language (e.g., "Which column has the most null values?", "Are there duplicate rows?", "Which columns are highly correlated?").
